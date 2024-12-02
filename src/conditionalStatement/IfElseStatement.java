@@ -2,10 +2,10 @@ package conditionalStatement;
 
 public class IfElseStatement {
 
-//static int age = 40;  // Using Static
+ //static int age = 40;  // Using Static
 
-public  void ifElse(){  // crating object
-   int age= 20;
+public  static void ifElse(int age){  // crating object
+   //int age= 20;
 
     if (age==10){
 System.out.println("age is 10");
@@ -29,9 +29,9 @@ System.out.println("age is 10");
 
     IfElseStatement bbj = new IfElseStatement();
 
-    bbj.ifElse();
+   // bbj.ifElse();
 
-   // ifElse();
+    ifElse(10);
 
 
     }
