@@ -3,7 +3,7 @@ package conditionalStatement;
 public class IfElsePractice7 {
 
 
-  public static void largestNumber(int a
+  public static void largestNumber(int a,int b, int c){
 
     if ((a>=b)&&(a>=c))  {
 System.out.println(a + " is the largest number");
