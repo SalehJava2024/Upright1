@@ -31,22 +31,68 @@ System.out.println(x);
     }
 
 
+
+
+  }
+
+public static void dowhileLoop(){   // do while loop
+int a = 6;
+do {
+    System.out.println(a);
+    a--;
+}
+while (a>=9);
+
+
+int b = 25;
+do {
+    System.out.println(b);
+    b++;
+}
+while (b<=45);
+
+}
+
+public static void lShape() {
+    for (int a = 10; a >= 1; a--) {
+
+        System.out.println("Hello");
+    }
+
+
+}
+
+
+public static void evenOdd() {
+   for (int x=11; x<=30; x++) {
+    if (x %2==0) {
+        System.out.println(x +"even number");
+    }
+
+   }
+  for (int x=11;x<=30;x++){
+   if (x %2!=0){
+       System.out.println(x + "is Odd number");
+   }
+
   }
 
 
-
-    public static void main(String[] args) {
-
-      // whileoop();
-       forLoop();
+}
 
 
+public static void main(String[] args) {
+
+
+ dowhileLoop();
+   // evenOdd();
 
 
 
 
 
-    }
+
+}
 
 
 
