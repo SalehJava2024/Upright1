@@ -2,7 +2,7 @@ package conditionalStatement;
 
 public class IfElsePractice4 {
 
-    public void divicivilityCheck (int number){
+    public void divicivilityCheck (int number){  //Write a program that checks if a number is divisible by 5, 3, or both.
 
        //int number =12;
 
