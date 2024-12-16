@@ -1,6 +1,6 @@
-package stringMethode;
+package stringFunction;
 
-public class StringfungtionClass {
+public class StringMethodeClass1 {
 
    static String name = "Saleh Ahmed";
 
@@ -26,8 +26,8 @@ public static void retrieveLetter(){
 
     //option 2:
 
-int firsletter = name.charAt(0);
-System.out.println(firsletter);    // why the result is 83 ??
+char firtsletter = name.charAt(0);
+System.out.println(firtsletter);
 }
 
 
