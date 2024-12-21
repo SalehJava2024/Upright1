@@ -1,5 +1,7 @@
 package staticKeyword;
 
+import accessModifier.Access1;
+
 import java.rmi.StubNotFoundException;
 
 public class students {
@@ -19,6 +21,7 @@ public class students {
 
  public static void study(){
 System.out.println("We do study");
+
 
  }
 

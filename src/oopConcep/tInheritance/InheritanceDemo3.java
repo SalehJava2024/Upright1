@@ -1,4 +1,4 @@
-package oopConceptInheritance;
+package oopConcep.tInheritance;
 
 public class InheritanceDemo3 extends InheritanceDemo2 {
 
@@ -17,7 +17,7 @@ public class InheritanceDemo3 extends InheritanceDemo2 {
         System.out.println(bbj3.price);
         bbj3.session = "Summer";
         System.out.println(bbj3.session);
-        bbj3.graden();
+       // bbj3.graden();
         bbj3.sellingTheGarden();
 
     }

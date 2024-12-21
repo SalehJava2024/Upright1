@@ -1,4 +1,4 @@
-package oopConceptInheritance;
+package oopConcep.tInheritance;
 
 public class InheritanceDemo2 extends InheritanceDemo{
 

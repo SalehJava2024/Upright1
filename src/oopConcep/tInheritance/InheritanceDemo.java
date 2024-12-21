@@ -1,6 +1,13 @@
-package oopConceptInheritance;
+package oopConcep.tInheritance;
 
 public class InheritanceDemo {
+
+    /* There are few type of Inheritance
+    1: Single inheritance
+    2: Multi level inheritance
+    3: Heirachieal inheritance. // Class B extends class A, Class C also class A , Father and two son relation
+    //Multiple Inheritance is not possible
+     */
 
 
 String fruitname;
