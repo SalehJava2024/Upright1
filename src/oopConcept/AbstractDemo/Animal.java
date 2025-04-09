@@ -2,8 +2,8 @@ package oopConcept.AbstractDemo;
 
 public abstract class Animal {
 
-  /* DATA ABSTRACTION -- Hiding some information and showing what necessary/functionality .
-this process can be achieved by using Abstraction class or Interface.
+  /* TA ABSTRACTION -- Hiding some information and showing what necessary/functionality .
+this process can be achieved by using Abstraction class or Interface.DA
 
 
 ABSTRACT actually is a keyword that can be used before class and Method.  THIS A NON ACCESS MODIFIER KIND.

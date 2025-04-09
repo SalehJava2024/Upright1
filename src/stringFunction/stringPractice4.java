@@ -3,14 +3,21 @@ package stringFunction;
 public class stringPractice4 {
 
   public static void immutable(){     // = Unchangeable,, Mutable means = Changeable
-  String name = "Suleman";
+  String name = "Fahad";
   String fullname = name.concat("Muhammed");
-  System.out.println(name);
-StringBuffer sb = new StringBuffer("Suleman");
-sb.append(" Muhammed");
+   //String fullname = name.concat(" Abdullah");
+  System.out.println(fullname);
+
+
+StringBuffer sb = new StringBuffer("Fahad");
+ sb.append(" Muhammed");
+ //sb.append(" Karim");
 System.out.println(sb);
-sb.insert(8,"Bin ");
+sb.insert(6,"Bin ");
 System.out.println(sb);
+
+
+
   }
 
     public static void main(String[] args) {

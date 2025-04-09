@@ -2,7 +2,7 @@ package oopConcept.Polymorphism;
 
 public class MethodeOverloading {
 
-
+// Methode Overloading is defining multiple methods with the same name but different parameters (type, name, or both)
 
 public void math(int a, int b){
 
